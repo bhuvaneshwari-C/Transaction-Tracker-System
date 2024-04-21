@@ -1,0 +1,47 @@
+label{
+  display: block;
+}
+
+button{
+  cursor: pointer;
+}
+
+table{
+  border-collapse: collapse;
+  width:100%;
+ border: solid black;
+}
+
+.formContainer{
+  background-color: rgb(176, 249, 251);
+  height:370px;
+  border:none;
+  width:400px;
+  margin-left: 40px;
+  text-align: center;
+  border:1px solid black;
+  border-radius: 10px;
+ 
+  
+}
+
+.formContainer input{
+  margin-bottom: 10px;
+  margin-top: 15px;
+  border-radius: 10px;
+  border:none;
+  padding: 5px;
+  padding-left: 6px;
+  margin-left: 36px;
+  width: 250px;
+}
+
+.formContainer button{
+  background-color: black;
+  color: white;
+  border-radius: 20px;
+  padding: 5px;
+  width:80px;
+  border:none;
+  margin-top: 9px;
+}
